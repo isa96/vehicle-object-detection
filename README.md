@@ -1,6 +1,4 @@
 # vehicle Object Detection with YoloV5
-This is Task Week 4 Internship at Nodeflux
-
 ![](image.png)
 
 ### Build Image on Docker
